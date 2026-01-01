@@ -21,7 +21,7 @@ This project is a web-based implementation of the classic Tic-Tac-Toe game. It f
 
 ## 🚀 Live Demo
 You can play the game live here: 
-[PASTE YOUR GITHUB PAGES LINK HERE]
+https://krittikadey-ctrl.github.io/PRODIGY_WD_03/
 
 ## 📂 Project Structure
 - `index.html`: The structural skeleton of the game.
