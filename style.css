@@ -1,0 +1,5 @@
+body { background: #0f3460; color: white; display: flex; justify-content: center; align-items: center; height: 100vh; font-family: sans-serif; }
+.board { display: grid; grid-template-columns: repeat(3, 100px); grid-template-rows: repeat(3, 100px); gap: 10px; }
+.cell { width: 100px; height: 100px; background: #16213e; border: 2px solid #e94560; display: flex; justify-content: center; align-items: center; font-size: 2rem; cursor: pointer; }
+.cell:hover { background: #1a1a2e; }
+button { margin-top: 20px; padding: 10px 20px; cursor: pointer; background: #e94560; color: white; border: none; }
